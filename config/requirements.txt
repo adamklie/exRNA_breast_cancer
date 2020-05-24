@@ -1,0 +1,5 @@
+sra-tools
+bwa
+samtools
+kraken2
+kraken-biom
