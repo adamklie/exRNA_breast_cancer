@@ -1,4 +1,4 @@
-# CSE283 - Cancer prediction with extracellular (exRNA) in serum
+# Cancer prediction with extracellular (exRNA) in serum
 
 ## Requirements (TODO)
 conda installation
